@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\Pr2-ObserverPattern.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\Pr2-ObserverPattern.Test\bin\Debug\Pr2-ObserverPattern.Test.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\Pr2-ObserverPattern.Test\bin\Debug\Pr2-ObserverPattern.Test.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\Pr2-ObserverPattern.Test\bin\Debug\SoftwareDesign.Pr2.ObserverPattern.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\Pr2-ObserverPattern.Test\bin\Debug\SoftwareDesign.Pr2.ObserverPattern.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\Pr2-ObserverPattern.Test\obj\Debug\Pr2-ObserverPattern.Test.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\Pr2-ObserverPattern.Test\obj\Debug\Pr2-ObserverPattern.Test.pdb

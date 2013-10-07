@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Debug\SoftwareDesign.Pr02.ObserverPattern.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\bin\Debug\SoftwareDesign.Pr2.ObserverPattern.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\bin\Debug\SoftwareDesign.Pr2.ObserverPattern.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Debug\SoftwareDesign.Pr2.ObserverPattern.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Debug\SoftwareDesign.Pr2.ObserverPattern.pdb
