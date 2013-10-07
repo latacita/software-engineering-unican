@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2f4e8b08-62ab-463c-9d13-dbd454518be5" name="Administrador@GERARDO 2013-10-07 21:31:22" runUser="GERARDO\Administrador" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ea1579ee-3d17-4c7f-a67e-f9786e87a8f9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrador_GERARDO 2013-10-07 21_31_22">
+      <DeploymentItem filename="C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\bin\Debug\SoftwareDesign.Pr2.ObserverPattern.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-10-07T21:31:22.4843750+02:00" queuing="2013-10-07T21:31:22.5312500+02:00" start="2013-10-07T21:31:22.5468750+02:00" finish="2013-10-07T21:31:23.4687500+02:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="4" executed="4" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="2" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="getUserlineTest" storage="c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\softwaredesign\pr2-observerpattern.test\bin\debug\pr2-observerpattern.test.dll" id="74d8afaf-a527-a262-a90c-ba1b4594d47d">
+      <Execution id="9332a42d-ed6f-4738-a8d7-a77d28ce6e22" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrador/Mis documentos/Visual Studio 2010/Projects/SoftwareDesign/Pr2-ObserverPattern.Test/bin/Debug/Pr2-ObserverPattern.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr2_ObserverPattern.Test.UserTest, Pr2-ObserverPattern.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getUserlineTest" />
+    </UnitTest>
+    <UnitTest name="NameTest" storage="c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\softwaredesign\pr2-observerpattern.test\bin\debug\pr2-observerpattern.test.dll" id="42d4e71a-e9a7-f058-5497-ed26a349c300">
+      <Execution id="2e84014b-a201-4c88-b3aa-f34cdcaf7c69" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrador/Mis documentos/Visual Studio 2010/Projects/SoftwareDesign/Pr2-ObserverPattern.Test/bin/Debug/Pr2-ObserverPattern.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr2_ObserverPattern.Test.UserTest, Pr2-ObserverPattern.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NameTest" />
+    </UnitTest>
+    <UnitTest name="addPostTest" storage="c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\softwaredesign\pr2-observerpattern.test\bin\debug\pr2-observerpattern.test.dll" id="dab52190-0783-cdb5-1bd0-6828a0c53a01">
+      <Execution id="0005f538-898e-4067-9792-87d568b6d2c5" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrador/Mis documentos/Visual Studio 2010/Projects/SoftwareDesign/Pr2-ObserverPattern.Test/bin/Debug/Pr2-ObserverPattern.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr2_ObserverPattern.Test.UserTest, Pr2-ObserverPattern.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="addPostTest" />
+    </UnitTest>
+    <UnitTest name="UserConstructorTest" storage="c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\softwaredesign\pr2-observerpattern.test\bin\debug\pr2-observerpattern.test.dll" id="d5e4d03e-a51e-d7e1-6449-74af4c77971b">
+      <Execution id="b57ab17d-9283-426c-97c7-3db32df05bf2" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrador/Mis documentos/Visual Studio 2010/Projects/SoftwareDesign/Pr2-ObserverPattern.Test/bin/Debug/Pr2-ObserverPattern.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr2_ObserverPattern.Test.UserTest, Pr2-ObserverPattern.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UserConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="42d4e71a-e9a7-f058-5497-ed26a349c300" executionId="2e84014b-a201-4c88-b3aa-f34cdcaf7c69" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="74d8afaf-a527-a262-a90c-ba1b4594d47d" executionId="9332a42d-ed6f-4738-a8d7-a77d28ce6e22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d5e4d03e-a51e-d7e1-6449-74af4c77971b" executionId="b57ab17d-9283-426c-97c7-3db32df05bf2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dab52190-0783-cdb5-1bd0-6828a0c53a01" executionId="0005f538-898e-4067-9792-87d568b6d2c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2e84014b-a201-4c88-b3aa-f34cdcaf7c69" testId="42d4e71a-e9a7-f058-5497-ed26a349c300" testName="NameTest" computerName="GERARDO" duration="00:00:00.0579421" startTime="2013-10-07T21:31:22.5625000+02:00" endTime="2013-10-07T21:31:23.0156250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2e84014b-a201-4c88-b3aa-f34cdcaf7c69">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at Pr2_ObserverPattern.Test.UserTest.NameTest() in C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\Pr2-ObserverPattern.Test\UserTest.cs:line 114
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9332a42d-ed6f-4738-a8d7-a77d28ce6e22" testId="74d8afaf-a527-a262-a90c-ba1b4594d47d" testName="getUserlineTest" computerName="GERARDO" duration="00:00:00.0015350" startTime="2013-10-07T21:31:23.0312500+02:00" endTime="2013-10-07T21:31:23.0312500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9332a42d-ed6f-4738-a8d7-a77d28ce6e22">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at Pr2_ObserverPattern.Test.UserTest.getUserlineTest() in C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\Pr2-ObserverPattern.Test\UserTest.cs:line 99
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b57ab17d-9283-426c-97c7-3db32df05bf2" testId="d5e4d03e-a51e-d7e1-6449-74af4c77971b" testName="UserConstructorTest" computerName="GERARDO" duration="00:00:00.0003842" startTime="2013-10-07T21:31:23.0468750+02:00" endTime="2013-10-07T21:31:23.0468750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b57ab17d-9283-426c-97c7-3db32df05bf2">
+    </UnitTestResult>
+    <UnitTestResult executionId="0005f538-898e-4067-9792-87d568b6d2c5" testId="dab52190-0783-cdb5-1bd0-6828a0c53a01" testName="addPostTest" computerName="GERARDO" duration="00:00:00.0016047" startTime="2013-10-07T21:31:23.0625000+02:00" endTime="2013-10-07T21:31:23.0625000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0005f538-898e-4067-9792-87d568b6d2c5">
+    </UnitTestResult>
+  </Results>
+</TestRun>
