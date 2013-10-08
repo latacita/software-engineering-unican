@@ -1,0 +1,4 @@
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\Pr02-BidirectionalAssociations\bin\Release\Pr02-BidirectionalAssociations.exe
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\Pr02-BidirectionalAssociations\bin\Release\Pr02-BidirectionalAssociations.pdb
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\Pr02-BidirectionalAssociations\obj\x86\Release\Pr02-BidirectionalAssociations.exe
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\Pr02-BidirectionalAssociations\obj\x86\Release\Pr02-BidirectionalAssociations.pdb

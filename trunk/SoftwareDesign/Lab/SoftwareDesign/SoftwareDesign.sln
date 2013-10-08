@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr02-BidirectionalAssociations", "Pr02-BidirectionalAssociations\Pr02-BidirectionalAssociations.csproj", "{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}"
+EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = SoftwareDesign.vsmdi
@@ -45,6 +47,16 @@ Global
 		{1C8180C8-10B7-413B-9E43-E06C27E9CA4B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{1C8180C8-10B7-413B-9E43-E06C27E9CA4B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{1C8180C8-10B7-413B-9E43-E06C27E9CA4B}.Release|x86.ActiveCfg = Release|Any CPU
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Debug|x86.ActiveCfg = Debug|x86
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Debug|x86.Build.0 = Debug|x86
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Release|Any CPU.ActiveCfg = Release|x86
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Release|x86.ActiveCfg = Release|x86
+		{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
