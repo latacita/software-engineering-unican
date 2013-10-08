@@ -6,3 +6,9 @@ C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projec
 C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Release\GenerateResource.write.1.tlog
 C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Release\SoftwareDesign.Pr2.ObserverPattern.exe
 C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Release\SoftwareDesign.Pr2.ObserverPattern.pdb
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Release\SoftwareDesign.Pr2.ObserverPattern.exe
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Release\SoftwareDesign.Pr2.ObserverPattern.pdb
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\bin\Release\SoftwareDesign.Pr2.ObserverPattern.exe
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\bin\Release\SoftwareDesign.Pr2.ObserverPattern.pdb
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Release\SoftwareDesign.Pr02.ObserverPattern.Properties.Resources.resources
+D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Release\Pr2-ObserverPattern.csproj.GenerateResource.Cache
