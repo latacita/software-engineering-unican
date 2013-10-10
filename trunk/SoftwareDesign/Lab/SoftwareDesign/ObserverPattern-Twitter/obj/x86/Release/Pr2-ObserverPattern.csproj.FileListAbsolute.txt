@@ -12,3 +12,11 @@ D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\bin\Release\
 D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\bin\Release\SoftwareDesign.Pr2.ObserverPattern.pdb
 D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Release\SoftwareDesign.Pr02.ObserverPattern.Properties.Resources.resources
 D:\WorkspaceVisualStudio\Lab\SoftwareDesign\ObserverPattern-Twitter\obj\x86\Release\Pr2-ObserverPattern.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\ObserverPattern-Twitter\obj\x86\Release\SoftwareDesign.Pr2.ObserverPattern.exe
+H:\Visual Studio 2010\ObserverPattern-Twitter\obj\x86\Release\SoftwareDesign.Pr2.ObserverPattern.pdb
+H:\Visual Studio 2010\ObserverPattern-Twitter\bin\Release\SoftwareDesign.Pr2.ObserverPattern.exe
+H:\Visual Studio 2010\ObserverPattern-Twitter\bin\Release\SoftwareDesign.Pr2.ObserverPattern.pdb
+H:\Visual Studio 2010\ObserverPattern-Twitter\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Visual Studio 2010\ObserverPattern-Twitter\obj\x86\Release\SoftwareDesign.Pr02.ObserverPattern.Properties.Resources.resources
+H:\Visual Studio 2010\ObserverPattern-Twitter\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Visual Studio 2010\ObserverPattern-Twitter\obj\x86\Release\GenerateResource.write.1.tlog

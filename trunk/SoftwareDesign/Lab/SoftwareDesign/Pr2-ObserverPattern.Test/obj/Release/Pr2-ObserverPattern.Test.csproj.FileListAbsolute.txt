@@ -12,3 +12,12 @@ D:\WorkspaceVisualStudio\Lab\SoftwareDesign\Pr2-ObserverPattern.Test\bin\Release
 D:\WorkspaceVisualStudio\Lab\SoftwareDesign\Pr2-ObserverPattern.Test\obj\Release\Pr2-ObserverPattern.Test.csprojResolveAssemblyReference.cache
 D:\WorkspaceVisualStudio\Lab\SoftwareDesign\Pr2-ObserverPattern.Test\obj\Release\Pr2-ObserverPattern.Test.dll
 D:\WorkspaceVisualStudio\Lab\SoftwareDesign\Pr2-ObserverPattern.Test\obj\Release\Pr2-ObserverPattern.Test.pdb
+H:\Visual Studio 2010\Pr2-ObserverPattern.Test\bin\Release\Pr2-ObserverPattern.Test.dll
+H:\Visual Studio 2010\Pr2-ObserverPattern.Test\bin\Release\Pr2-ObserverPattern.Test.pdb
+H:\Visual Studio 2010\Pr2-ObserverPattern.Test\bin\Release\Pr02-BidirectionalAssociations.exe
+H:\Visual Studio 2010\Pr2-ObserverPattern.Test\bin\Release\SoftwareDesign.Pr2.ObserverPattern.exe
+H:\Visual Studio 2010\Pr2-ObserverPattern.Test\bin\Release\SoftwareDesign.Pr2.ObserverPattern.pdb
+H:\Visual Studio 2010\Pr2-ObserverPattern.Test\bin\Release\Pr02-BidirectionalAssociations.pdb
+H:\Visual Studio 2010\Pr2-ObserverPattern.Test\obj\Release\ResolveAssemblyReference.cache
+H:\Visual Studio 2010\Pr2-ObserverPattern.Test\obj\Release\Pr2-ObserverPattern.Test.dll
+H:\Visual Studio 2010\Pr2-ObserverPattern.Test\obj\Release\Pr2-ObserverPattern.Test.pdb

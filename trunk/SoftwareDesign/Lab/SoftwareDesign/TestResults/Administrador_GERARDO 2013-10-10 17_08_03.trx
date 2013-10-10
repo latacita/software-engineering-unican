@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1fb82a1c-324d-4962-9eff-7c429987f481" name="Administrador@GERARDO 2013-10-10 17:08:03" runUser="GERARDO\Administrador" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ea1579ee-3d17-4c7f-a67e-f9786e87a8f9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrador_GERARDO 2013-10-10 17_08_03">
+      <DeploymentItem filename="H:\Visual Studio 2010\Pr02-BidirectionalAssociations\bin\Release\Pr02-BidirectionalAssociations.exe" />
+      <DeploymentItem filename="H:\Visual Studio 2010\ObserverPattern-Twitter\bin\Release\SoftwareDesign.Pr2.ObserverPattern.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-10-10T17:08:03.2500000+02:00" queuing="2013-10-10T17:08:03.2968750+02:00" start="2013-10-10T17:08:03.3125000+02:00" finish="2013-10-10T17:08:04.2968750+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="23" executed="23" passed="22" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ChangeCouplesTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="8d0dc86d-9728-f51f-47c4-131ee1fa47f3">
+      <Execution id="1671c3f4-e3f1-4767-8e03-caa649b095fe" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.MormonMarriageStyle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ChangeCouplesTest" />
+    </UnitTest>
+    <UnitTest name="GetNameTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="9b6c598b-4a8c-fe13-14c3-820564032856">
+      <Execution id="53560604-0d69-4d19-b121-1479de13f647" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetNameTest" />
+    </UnitTest>
+    <UnitTest name="SetNameTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="2be7cfc5-ff23-c0eb-aa9f-5f448e6e4a3c">
+      <Execution id="a7a2b45a-be93-4837-8d45-ba5b32d8c771" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleCanBeSingle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SetNameTest" />
+    </UnitTest>
+    <UnitTest name="ChangeCouplesTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="3f679cbf-f532-349f-27d9-2d409674fbfe">
+      <Execution id="91fe6ef8-eb09-4cf6-b2e6-2300fbbfa3e9" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ChangeCouplesTest" />
+    </UnitTest>
+    <UnitTest name="EqualsTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="0d224b74-73c8-531b-9606-939cf76be9cb">
+      <Execution id="bda57fbb-023c-4911-a1af-40c6e843d3f0" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleCanBeSingle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EqualsTest" />
+    </UnitTest>
+    <UnitTest name="NameTest" storage="h:\visual studio 2010\pr2-observerpattern.test\bin\release\pr2-observerpattern.test.dll" id="42d4e71a-e9a7-f058-5497-ed26a349c300">
+      <Execution id="8c9b348e-1c3b-4528-be33-146e16742d68" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr2-ObserverPattern.Test/bin/Release/Pr2-ObserverPattern.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr2_ObserverPattern.Test.UserTest, Pr2-ObserverPattern.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NameTest" />
+    </UnitTest>
+    <UnitTest name="SetNameTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="c2c63bb1-0697-a444-2ad1-0a65720a9644">
+      <Execution id="f27b46ba-dd4f-4592-a1cd-489cb64d1c2a" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SetNameTest" />
+    </UnitTest>
+    <UnitTest name="ChangeCoupleTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="fee97618-ccab-b58b-2e35-87356f9d2e2f">
+      <Execution id="c646a606-9487-4bbb-933a-4fcfce8953c0" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleCanBeSingle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ChangeCoupleTest" />
+    </UnitTest>
+    <UnitTest name="UserConstructorTest" storage="h:\visual studio 2010\pr2-observerpattern.test\bin\release\pr2-observerpattern.test.dll" id="d5e4d03e-a51e-d7e1-6449-74af4c77971b">
+      <Execution id="28312451-21cf-4a42-997b-e64e2c1149e2" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr2-ObserverPattern.Test/bin/Release/Pr2-ObserverPattern.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr2_ObserverPattern.Test.UserTest, Pr2-ObserverPattern.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UserConstructorTest" />
+    </UnitTest>
+    <UnitTest name="AddWifeTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="860811e3-b97e-644c-bdad-aedcca14161f">
+      <Execution id="39d23c84-f1ea-437b-9034-f39b513c6bf9" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.MormonMarriageStyle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddWifeTest" />
+    </UnitTest>
+    <UnitTest name="EqualsTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="36b479e8-9918-2c63-0d02-0ca98f475a8e">
+      <Execution id="b7f8ef95-0160-4907-8c1f-920be980a60b" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.MormonMarriageStyle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EqualsTest" />
+    </UnitTest>
+    <UnitTest name="EqualsTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="8e6bda69-19ea-103b-5eb9-72a74db46db6">
+      <Execution id="0294ae27-c12e-4f80-a818-a9311ef1bb45" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EqualsTest" />
+    </UnitTest>
+    <UnitTest name="ManConstructorTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="a85366ed-03e5-935c-8722-aca4f006140c">
+      <Execution id="324284ca-387c-4168-b3d8-4cc1069ba558" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleCanBeSingle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ManConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ManConstructorTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="ca654c3f-ab03-0856-6ae5-704455799c0e">
+      <Execution id="663bbf65-900b-46f9-9470-abf42e0275e2" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ManConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ManConstructorTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="fc5a7c22-e87a-f04d-a1bc-a16ecb320c7b">
+      <Execution id="3d14086b-eb8f-478a-9aff-a6c3c6cbd2ba" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.MormonMarriageStyle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ManConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GetNameTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="5d2de231-75f0-3428-94dd-c50d616790ca">
+      <Execution id="30094a6a-5169-4b5f-8f2e-698be8ff315e" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.MormonMarriageStyle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetNameTest" />
+    </UnitTest>
+    <UnitTest name="SetNameTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="4e7fd4f1-ab6f-0cb0-7f27-fff132f77d2a">
+      <Execution id="23259636-b614-4af8-a5a8-4466dedf6e44" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.MormonMarriageStyle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SetNameTest" />
+    </UnitTest>
+    <UnitTest name="WifeTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="02336e9e-6d03-0091-2ffe-b7b2b1bbca15">
+      <Execution id="55e8e5c8-5019-4ca4-9814-8581762ccc5e" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WifeTest" />
+    </UnitTest>
+    <UnitTest name="addPostTest" storage="h:\visual studio 2010\pr2-observerpattern.test\bin\release\pr2-observerpattern.test.dll" id="dab52190-0783-cdb5-1bd0-6828a0c53a01">
+      <Execution id="cf609bf2-70d4-4ea8-9181-c7c02bae1f24" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr2-ObserverPattern.Test/bin/Release/Pr2-ObserverPattern.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr2_ObserverPattern.Test.UserTest, Pr2-ObserverPattern.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="addPostTest" />
+    </UnitTest>
+    <UnitTest name="RemoveWifeTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="1d934473-bf4c-0681-db1d-d872682e3156">
+      <Execution id="aace642e-929f-4b31-8586-3e8c5fdc0aaa" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.MormonMarriageStyle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RemoveWifeTest" />
+    </UnitTest>
+    <UnitTest name="GetNameTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="6450b72c-2c82-9ba9-251e-0fa565f734b7">
+      <Execution id="c51c14b3-7a3e-4814-84a7-aabeb0270eeb" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleCanBeSingle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetNameTest" />
+    </UnitTest>
+    <UnitTest name="WifeTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="535f8ca5-d0b8-770e-9a20-5e9993d226a9">
+      <Execution id="59b2a70c-7d31-468e-acc7-279871b0ed27" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleCanBeSingle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WifeTest" />
+    </UnitTest>
+    <UnitTest name="HasMarriedTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="fd4316ce-605b-d3e6-2144-ba324efd1c3e">
+      <Execution id="b629ad4b-2172-440e-be3f-0885bf1b3603" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.MormonMarriageStyle.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HasMarriedTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="02336e9e-6d03-0091-2ffe-b7b2b1bbca15" executionId="55e8e5c8-5019-4ca4-9814-8581762ccc5e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0d224b74-73c8-531b-9606-939cf76be9cb" executionId="bda57fbb-023c-4911-a1af-40c6e843d3f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1d934473-bf4c-0681-db1d-d872682e3156" executionId="aace642e-929f-4b31-8586-3e8c5fdc0aaa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2be7cfc5-ff23-c0eb-aa9f-5f448e6e4a3c" executionId="a7a2b45a-be93-4837-8d45-ba5b32d8c771" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36b479e8-9918-2c63-0d02-0ca98f475a8e" executionId="b7f8ef95-0160-4907-8c1f-920be980a60b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3f679cbf-f532-349f-27d9-2d409674fbfe" executionId="91fe6ef8-eb09-4cf6-b2e6-2300fbbfa3e9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="42d4e71a-e9a7-f058-5497-ed26a349c300" executionId="8c9b348e-1c3b-4528-be33-146e16742d68" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4e7fd4f1-ab6f-0cb0-7f27-fff132f77d2a" executionId="23259636-b614-4af8-a5a8-4466dedf6e44" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="535f8ca5-d0b8-770e-9a20-5e9993d226a9" executionId="59b2a70c-7d31-468e-acc7-279871b0ed27" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5d2de231-75f0-3428-94dd-c50d616790ca" executionId="30094a6a-5169-4b5f-8f2e-698be8ff315e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6450b72c-2c82-9ba9-251e-0fa565f734b7" executionId="c51c14b3-7a3e-4814-84a7-aabeb0270eeb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="860811e3-b97e-644c-bdad-aedcca14161f" executionId="39d23c84-f1ea-437b-9034-f39b513c6bf9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8d0dc86d-9728-f51f-47c4-131ee1fa47f3" executionId="1671c3f4-e3f1-4767-8e03-caa649b095fe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e6bda69-19ea-103b-5eb9-72a74db46db6" executionId="0294ae27-c12e-4f80-a818-a9311ef1bb45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b6c598b-4a8c-fe13-14c3-820564032856" executionId="53560604-0d69-4d19-b121-1479de13f647" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a85366ed-03e5-935c-8722-aca4f006140c" executionId="324284ca-387c-4168-b3d8-4cc1069ba558" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c2c63bb1-0697-a444-2ad1-0a65720a9644" executionId="f27b46ba-dd4f-4592-a1cd-489cb64d1c2a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ca654c3f-ab03-0856-6ae5-704455799c0e" executionId="663bbf65-900b-46f9-9470-abf42e0275e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d5e4d03e-a51e-d7e1-6449-74af4c77971b" executionId="28312451-21cf-4a42-997b-e64e2c1149e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="dab52190-0783-cdb5-1bd0-6828a0c53a01" executionId="cf609bf2-70d4-4ea8-9181-c7c02bae1f24" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fc5a7c22-e87a-f04d-a1bc-a16ecb320c7b" executionId="3d14086b-eb8f-478a-9aff-a6c3c6cbd2ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fd4316ce-605b-d3e6-2144-ba324efd1c3e" executionId="b629ad4b-2172-440e-be3f-0885bf1b3603" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fee97618-ccab-b58b-2e35-87356f9d2e2f" executionId="c646a606-9487-4bbb-933a-4fcfce8953c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="55e8e5c8-5019-4ca4-9814-8581762ccc5e" testId="02336e9e-6d03-0091-2ffe-b7b2b1bbca15" testName="WifeTest" computerName="GERARDO" duration="00:00:00.0273597" startTime="2013-10-10T17:08:03.3281250+02:00" endTime="2013-10-10T17:08:03.6718750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="55e8e5c8-5019-4ca4-9814-8581762ccc5e">
+    </UnitTestResult>
+    <UnitTestResult executionId="bda57fbb-023c-4911-a1af-40c6e843d3f0" testId="0d224b74-73c8-531b-9606-939cf76be9cb" testName="EqualsTest" computerName="GERARDO" duration="00:00:00.0012432" startTime="2013-10-10T17:08:03.6875000+02:00" endTime="2013-10-10T17:08:03.6875000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bda57fbb-023c-4911-a1af-40c6e843d3f0">
+    </UnitTestResult>
+    <UnitTestResult executionId="aace642e-929f-4b31-8586-3e8c5fdc0aaa" testId="1d934473-bf4c-0681-db1d-d872682e3156" testName="RemoveWifeTest" computerName="GERARDO" duration="00:00:00.0035585" startTime="2013-10-10T17:08:03.6875000+02:00" endTime="2013-10-10T17:08:03.7031250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aace642e-929f-4b31-8586-3e8c5fdc0aaa">
+    </UnitTestResult>
+    <UnitTestResult executionId="a7a2b45a-be93-4837-8d45-ba5b32d8c771" testId="2be7cfc5-ff23-c0eb-aa9f-5f448e6e4a3c" testName="SetNameTest" computerName="GERARDO" duration="00:00:00.0005453" startTime="2013-10-10T17:08:03.7031250+02:00" endTime="2013-10-10T17:08:03.7187500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a7a2b45a-be93-4837-8d45-ba5b32d8c771">
+    </UnitTestResult>
+    <UnitTestResult executionId="b7f8ef95-0160-4907-8c1f-920be980a60b" testId="36b479e8-9918-2c63-0d02-0ca98f475a8e" testName="EqualsTest" computerName="GERARDO" duration="00:00:00.0015913" startTime="2013-10-10T17:08:03.7187500+02:00" endTime="2013-10-10T17:08:03.7187500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7f8ef95-0160-4907-8c1f-920be980a60b">
+    </UnitTestResult>
+    <UnitTestResult executionId="91fe6ef8-eb09-4cf6-b2e6-2300fbbfa3e9" testId="3f679cbf-f532-349f-27d9-2d409674fbfe" testName="ChangeCouplesTest" computerName="GERARDO" duration="00:00:00.0030792" startTime="2013-10-10T17:08:03.7187500+02:00" endTime="2013-10-10T17:08:03.7343750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="91fe6ef8-eb09-4cf6-b2e6-2300fbbfa3e9">
+    </UnitTestResult>
+    <UnitTestResult executionId="8c9b348e-1c3b-4528-be33-146e16742d68" testId="42d4e71a-e9a7-f058-5497-ed26a349c300" testName="NameTest" computerName="GERARDO" duration="00:00:00.0254146" startTime="2013-10-10T17:08:03.7343750+02:00" endTime="2013-10-10T17:08:04.0781250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8c9b348e-1c3b-4528-be33-146e16742d68">
+    </UnitTestResult>
+    <UnitTestResult executionId="23259636-b614-4af8-a5a8-4466dedf6e44" testId="4e7fd4f1-ab6f-0cb0-7f27-fff132f77d2a" testName="SetNameTest" computerName="GERARDO" duration="00:00:00.0007847" startTime="2013-10-10T17:08:04.0781250+02:00" endTime="2013-10-10T17:08:04.0937500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23259636-b614-4af8-a5a8-4466dedf6e44">
+    </UnitTestResult>
+    <UnitTestResult executionId="59b2a70c-7d31-468e-acc7-279871b0ed27" testId="535f8ca5-d0b8-770e-9a20-5e9993d226a9" testName="WifeTest" computerName="GERARDO" duration="00:00:00.0022638" startTime="2013-10-10T17:08:04.0937500+02:00" endTime="2013-10-10T17:08:04.0937500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="59b2a70c-7d31-468e-acc7-279871b0ed27">
+    </UnitTestResult>
+    <UnitTestResult executionId="30094a6a-5169-4b5f-8f2e-698be8ff315e" testId="5d2de231-75f0-3428-94dd-c50d616790ca" testName="GetNameTest" computerName="GERARDO" duration="00:00:00.0007168" startTime="2013-10-10T17:08:04.1093750+02:00" endTime="2013-10-10T17:08:04.1093750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30094a6a-5169-4b5f-8f2e-698be8ff315e">
+    </UnitTestResult>
+    <UnitTestResult executionId="c51c14b3-7a3e-4814-84a7-aabeb0270eeb" testId="6450b72c-2c82-9ba9-251e-0fa565f734b7" testName="GetNameTest" computerName="GERARDO" duration="00:00:00.0004966" startTime="2013-10-10T17:08:04.1093750+02:00" endTime="2013-10-10T17:08:04.1093750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c51c14b3-7a3e-4814-84a7-aabeb0270eeb">
+    </UnitTestResult>
+    <UnitTestResult executionId="39d23c84-f1ea-437b-9034-f39b513c6bf9" testId="860811e3-b97e-644c-bdad-aedcca14161f" testName="AddWifeTest" computerName="GERARDO" duration="00:00:00.0349530" startTime="2013-10-10T17:08:04.1250000+02:00" endTime="2013-10-10T17:08:04.1562500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39d23c84-f1ea-437b-9034-f39b513c6bf9">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at Pr02_BidirectionalAssociations.MormonMarriageStyle.Test.ManTest.AddWifeTest() in H:\Visual Studio 2010\Pr02-BidirectionalAssociations.Test\MormonMarriageStyle\ManTest.cs:line 139
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1671c3f4-e3f1-4767-8e03-caa649b095fe" testId="8d0dc86d-9728-f51f-47c4-131ee1fa47f3" testName="ChangeCouplesTest" computerName="GERARDO" duration="00:00:00.0019154" startTime="2013-10-10T17:08:04.1562500+02:00" endTime="2013-10-10T17:08:04.1718750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1671c3f4-e3f1-4767-8e03-caa649b095fe">
+    </UnitTestResult>
+    <UnitTestResult executionId="0294ae27-c12e-4f80-a818-a9311ef1bb45" testId="8e6bda69-19ea-103b-5eb9-72a74db46db6" testName="EqualsTest" computerName="GERARDO" duration="00:00:00.0009246" startTime="2013-10-10T17:08:04.1718750+02:00" endTime="2013-10-10T17:08:04.1875000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0294ae27-c12e-4f80-a818-a9311ef1bb45">
+    </UnitTestResult>
+    <UnitTestResult executionId="53560604-0d69-4d19-b121-1479de13f647" testId="9b6c598b-4a8c-fe13-14c3-820564032856" testName="GetNameTest" computerName="GERARDO" duration="00:00:00.0006444" startTime="2013-10-10T17:08:04.1875000+02:00" endTime="2013-10-10T17:08:04.1875000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="53560604-0d69-4d19-b121-1479de13f647">
+    </UnitTestResult>
+    <UnitTestResult executionId="324284ca-387c-4168-b3d8-4cc1069ba558" testId="a85366ed-03e5-935c-8722-aca4f006140c" testName="ManConstructorTest" computerName="GERARDO" duration="00:00:00.0005170" startTime="2013-10-10T17:08:04.1875000+02:00" endTime="2013-10-10T17:08:04.2031250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="324284ca-387c-4168-b3d8-4cc1069ba558">
+    </UnitTestResult>
+    <UnitTestResult executionId="f27b46ba-dd4f-4592-a1cd-489cb64d1c2a" testId="c2c63bb1-0697-a444-2ad1-0a65720a9644" testName="SetNameTest" computerName="GERARDO" duration="00:00:00.0005489" startTime="2013-10-10T17:08:04.2031250+02:00" endTime="2013-10-10T17:08:04.2031250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f27b46ba-dd4f-4592-a1cd-489cb64d1c2a">
+    </UnitTestResult>
+    <UnitTestResult executionId="663bbf65-900b-46f9-9470-abf42e0275e2" testId="ca654c3f-ab03-0856-6ae5-704455799c0e" testName="ManConstructorTest" computerName="GERARDO" duration="00:00:00.0004488" startTime="2013-10-10T17:08:04.2031250+02:00" endTime="2013-10-10T17:08:04.2187500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="663bbf65-900b-46f9-9470-abf42e0275e2">
+    </UnitTestResult>
+    <UnitTestResult executionId="28312451-21cf-4a42-997b-e64e2c1149e2" testId="d5e4d03e-a51e-d7e1-6449-74af4c77971b" testName="UserConstructorTest" computerName="GERARDO" duration="00:00:00.0004231" startTime="2013-10-10T17:08:04.2187500+02:00" endTime="2013-10-10T17:08:04.2187500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="28312451-21cf-4a42-997b-e64e2c1149e2">
+    </UnitTestResult>
+    <UnitTestResult executionId="cf609bf2-70d4-4ea8-9181-c7c02bae1f24" testId="dab52190-0783-cdb5-1bd0-6828a0c53a01" testName="addPostTest" computerName="GERARDO" duration="00:00:00.0011709" startTime="2013-10-10T17:08:04.2343750+02:00" endTime="2013-10-10T17:08:04.2343750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cf609bf2-70d4-4ea8-9181-c7c02bae1f24">
+    </UnitTestResult>
+    <UnitTestResult executionId="3d14086b-eb8f-478a-9aff-a6c3c6cbd2ba" testId="fc5a7c22-e87a-f04d-a1bc-a16ecb320c7b" testName="ManConstructorTest" computerName="GERARDO" duration="00:00:00.0006886" startTime="2013-10-10T17:08:04.2343750+02:00" endTime="2013-10-10T17:08:04.2500000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d14086b-eb8f-478a-9aff-a6c3c6cbd2ba">
+    </UnitTestResult>
+    <UnitTestResult executionId="b629ad4b-2172-440e-be3f-0885bf1b3603" testId="fd4316ce-605b-d3e6-2144-ba324efd1c3e" testName="HasMarriedTest" computerName="GERARDO" duration="00:00:00.0010593" startTime="2013-10-10T17:08:04.2500000+02:00" endTime="2013-10-10T17:08:04.2500000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b629ad4b-2172-440e-be3f-0885bf1b3603">
+    </UnitTestResult>
+    <UnitTestResult executionId="c646a606-9487-4bbb-933a-4fcfce8953c0" testId="fee97618-ccab-b58b-2e35-87356f9d2e2f" testName="ChangeCoupleTest" computerName="GERARDO" duration="00:00:00.0018344" startTime="2013-10-10T17:08:04.2656250+02:00" endTime="2013-10-10T17:08:04.2656250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c646a606-9487-4bbb-933a-4fcfce8953c0">
+    </UnitTestResult>
+  </Results>
+</TestRun>

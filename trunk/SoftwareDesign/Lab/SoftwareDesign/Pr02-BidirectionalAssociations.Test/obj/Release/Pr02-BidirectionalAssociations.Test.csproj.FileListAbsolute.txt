@@ -1,0 +1,7 @@
+H:\Visual Studio 2010\Pr02-BidirectionalAssociations.Test\obj\Release\ResolveAssemblyReference.cache
+H:\Visual Studio 2010\Pr02-BidirectionalAssociations.Test\bin\Release\Pr02-BidirectionalAssociations.Test.dll
+H:\Visual Studio 2010\Pr02-BidirectionalAssociations.Test\bin\Release\Pr02-BidirectionalAssociations.Test.pdb
+H:\Visual Studio 2010\Pr02-BidirectionalAssociations.Test\bin\Release\Pr02-BidirectionalAssociations.exe
+H:\Visual Studio 2010\Pr02-BidirectionalAssociations.Test\bin\Release\Pr02-BidirectionalAssociations.pdb
+H:\Visual Studio 2010\Pr02-BidirectionalAssociations.Test\obj\Release\Pr02-BidirectionalAssociations.Test.dll
+H:\Visual Studio 2010\Pr02-BidirectionalAssociations.Test\obj\Release\Pr02-BidirectionalAssociations.Test.pdb

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c879115b-bda9-41ae-b689-7c17ad54f4d2" name="Administrador@GERARDO 2013-10-09 16:20:34" runUser="GERARDO\Administrador" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ea1579ee-3d17-4c7f-a67e-f9786e87a8f9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrador_GERARDO 2013-10-09 16_20_34">
+      <DeploymentItem filename="H:\Visual Studio 2010\Pr02-BidirectionalAssociations\bin\Release\Pr02-BidirectionalAssociations.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-10-09T16:20:34.4218750+02:00" queuing="2013-10-09T16:20:34.4531250+02:00" start="2013-10-09T16:20:34.4843750+02:00" finish="2013-10-09T16:20:56.2187500+02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="6" executed="6" passed="4" error="2" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="EqualsTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="8e6bda69-19ea-103b-5eb9-72a74db46db6">
+      <Execution id="07aeddaf-ff72-467f-a3fd-42222b124d87" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EqualsTest" />
+    </UnitTest>
+    <UnitTest name="ChangeCouplesTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="3f679cbf-f532-349f-27d9-2d409674fbfe">
+      <Execution id="dedcaa3d-416c-4f0f-b294-5f6448cd5cfc" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ChangeCouplesTest" />
+    </UnitTest>
+    <UnitTest name="WifeTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="02336e9e-6d03-0091-2ffe-b7b2b1bbca15">
+      <Execution id="352219b1-ac02-4657-bc87-d8460cdc0df6" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WifeTest" />
+    </UnitTest>
+    <UnitTest name="SetNameTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="c2c63bb1-0697-a444-2ad1-0a65720a9644">
+      <Execution id="02009dce-aa4c-48f2-b9e1-41c9c6a8e019" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SetNameTest" />
+    </UnitTest>
+    <UnitTest name="ManConstructorTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="ca654c3f-ab03-0856-6ae5-704455799c0e">
+      <Execution id="9a177e03-d87b-474b-ac0b-b91437f19a16" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ManConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GetNameTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="9b6c598b-4a8c-fe13-14c3-820564032856">
+      <Execution id="1a265494-616f-4f9d-83fe-6a964ea5f1ac" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetNameTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ca654c3f-ab03-0856-6ae5-704455799c0e" executionId="9a177e03-d87b-474b-ac0b-b91437f19a16" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e6bda69-19ea-103b-5eb9-72a74db46db6" executionId="07aeddaf-ff72-467f-a3fd-42222b124d87" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b6c598b-4a8c-fe13-14c3-820564032856" executionId="1a265494-616f-4f9d-83fe-6a964ea5f1ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c2c63bb1-0697-a444-2ad1-0a65720a9644" executionId="02009dce-aa4c-48f2-b9e1-41c9c6a8e019" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="02336e9e-6d03-0091-2ffe-b7b2b1bbca15" executionId="352219b1-ac02-4657-bc87-d8460cdc0df6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3f679cbf-f532-349f-27d9-2d409674fbfe" executionId="dedcaa3d-416c-4f0f-b294-5f6448cd5cfc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9a177e03-d87b-474b-ac0b-b91437f19a16" testId="ca654c3f-ab03-0856-6ae5-704455799c0e" testName="ManConstructorTest" computerName="GERARDO" duration="00:00:00.0274643" startTime="2013-10-09T16:20:34.4843750+02:00" endTime="2013-10-09T16:20:34.8750000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9a177e03-d87b-474b-ac0b-b91437f19a16">
+    </UnitTestResult>
+    <UnitTestResult executionId="07aeddaf-ff72-467f-a3fd-42222b124d87" testId="8e6bda69-19ea-103b-5eb9-72a74db46db6" testName="EqualsTest" computerName="GERARDO" duration="00:00:00.0010212" startTime="2013-10-09T16:20:34.8750000+02:00" endTime="2013-10-09T16:20:34.8750000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="07aeddaf-ff72-467f-a3fd-42222b124d87">
+    </UnitTestResult>
+    <UnitTestResult executionId="1a265494-616f-4f9d-83fe-6a964ea5f1ac" testId="9b6c598b-4a8c-fe13-14c3-820564032856" testName="GetNameTest" computerName="GERARDO" duration="00:00:00.0005614" startTime="2013-10-09T16:20:34.8906250+02:00" endTime="2013-10-09T16:20:34.8906250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1a265494-616f-4f9d-83fe-6a964ea5f1ac">
+    </UnitTestResult>
+    <UnitTestResult executionId="02009dce-aa4c-48f2-b9e1-41c9c6a8e019" testId="c2c63bb1-0697-a444-2ad1-0a65720a9644" testName="SetNameTest" computerName="GERARDO" duration="00:00:00.0005546" startTime="2013-10-09T16:20:34.8906250+02:00" endTime="2013-10-09T16:20:34.9062500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="02009dce-aa4c-48f2-b9e1-41c9c6a8e019">
+    </UnitTestResult>
+    <UnitTestResult executionId="352219b1-ac02-4657-bc87-d8460cdc0df6" testId="02336e9e-6d03-0091-2ffe-b7b2b1bbca15" testName="WifeTest" computerName="GERARDO" startTime="2013-10-09T16:20:34.9062500+02:00" endTime="2013-10-09T16:20:45.9218750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="352219b1-ac02-4657-bc87-d8460cdc0df6">
+      <Output>
+        <ErrorInfo>
+          <Message>The agent process was stopped while the test was running.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dedcaa3d-416c-4f0f-b294-5f6448cd5cfc" testId="3f679cbf-f532-349f-27d9-2d409674fbfe" testName="ChangeCouplesTest" computerName="GERARDO" startTime="2013-10-09T16:20:45.9375000+02:00" endTime="2013-10-09T16:20:56.2031250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dedcaa3d-416c-4f0f-b294-5f6448cd5cfc">
+      <Output>
+        <ErrorInfo>
+          <Message>The agent process was stopped while the test was running.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
