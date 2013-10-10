@@ -61,6 +61,13 @@
       <Project>{76F415CC-2C9C-44E1-8DE0-AF4FA89C3EB0}</Project>
       <Name>Pr2-ObserverPattern</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Pr02-BidirectionalAssociations\Pr02-BidirectionalAssociations.csproj">
+      <Project>{4CC5FBF0-707E-467F-A667-4BDF128EBB2A}</Project>
+      <Name>Pr02-BidirectionalAssociations</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PeopleCanBeSingle\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

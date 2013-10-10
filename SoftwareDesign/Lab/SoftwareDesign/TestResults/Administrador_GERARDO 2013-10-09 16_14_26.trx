@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0d99b92c-b101-48dc-aed5-ed68e53ea165" name="Administrador@GERARDO 2013-10-09 16:14:26" runUser="GERARDO\Administrador" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ea1579ee-3d17-4c7f-a67e-f9786e87a8f9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrador_GERARDO 2013-10-09 16_14_26">
+      <DeploymentItem filename="H:\Visual Studio 2010\Pr02-BidirectionalAssociations\bin\Release\Pr02-BidirectionalAssociations.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-10-09T16:14:26.5000000+02:00" queuing="2013-10-09T16:14:41.0937500+02:00" start="2013-10-09T16:14:41.1093750+02:00" finish="2013-10-09T16:14:53.4218750+02:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="1" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="WifeTest" storage="h:\visual studio 2010\pr02-bidirectionalassociations.test\bin\release\pr02-bidirectionalassociations.test.dll" id="02336e9e-6d03-0091-2ffe-b7b2b1bbca15">
+      <Execution id="7bb569e8-495c-4c3c-9b94-3c596e330fd7" />
+      <TestMethod codeBase="H:/Visual Studio 2010/Pr02-BidirectionalAssociations.Test/bin/Release/Pr02-BidirectionalAssociations.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Pr02_BidirectionalAssociations.PeopleMustBeMarried.Test.ManTest, Pr02-BidirectionalAssociations.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WifeTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="02336e9e-6d03-0091-2ffe-b7b2b1bbca15" executionId="7bb569e8-495c-4c3c-9b94-3c596e330fd7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7bb569e8-495c-4c3c-9b94-3c596e330fd7" testId="02336e9e-6d03-0091-2ffe-b7b2b1bbca15" testName="WifeTest" computerName="GERARDO" startTime="2013-10-09T16:14:41.1250000+02:00" endTime="2013-10-09T16:14:53.4062500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7bb569e8-495c-4c3c-9b94-3c596e330fd7">
+      <Output>
+        <ErrorInfo>
+          <Message>The agent process was stopped while the test was running.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
