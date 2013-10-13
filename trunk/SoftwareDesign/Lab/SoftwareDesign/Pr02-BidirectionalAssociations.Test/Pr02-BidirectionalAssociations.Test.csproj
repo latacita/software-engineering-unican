@@ -50,6 +50,7 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TotalPolygamy\ManTest.cs" />
     <Compile Include="MormonMarriageStyle\ManTest.cs" />
     <Compile Include="PeopleCanBeSingle\ManTest.cs" />
     <Compile Include="PeopleMustBeMarried\ManTest.cs">
