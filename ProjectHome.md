@@ -1,0 +1,1 @@
+This project contains teaching material as assignments, solutions for assignments, slides for lectures and so on, for different subjects related to Software Engineering that are currently taught in Univerisity of Cantabria
